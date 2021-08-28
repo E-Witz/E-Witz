@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @E-Witz
+- 👀 I’m own RoScript.js
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me witzblitz69@gmail.com
